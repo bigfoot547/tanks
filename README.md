@@ -3,7 +3,7 @@
 This is a minetest mod that adds a water tank and lava tank.
 
 ## Dependencies
- * None!
+ * default (built in)
 
 ## License
 **Code**: LGPL v2.1+
